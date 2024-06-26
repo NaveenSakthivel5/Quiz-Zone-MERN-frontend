@@ -27,6 +27,7 @@ React
 Redux
 React Router
 Axios
+Antd
 
 Backend:
 Node.js
