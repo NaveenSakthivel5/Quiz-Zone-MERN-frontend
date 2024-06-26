@@ -38,3 +38,6 @@ MongoDB
 
 Authentication:
 JWT (JSON Web Token)
+
+Contact
+For any questions or inquiries, please contact [naveensakthivel14@gmail.com].
