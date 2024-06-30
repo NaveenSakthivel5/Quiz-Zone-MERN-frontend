@@ -18,8 +18,6 @@ User Features
 * View Results: Users can view their exam results and scores.
 
 
-Sure, here is the Technology Stack section formatted as bullet points that can be easily copied:
-
 Technology Stack
 
 Frontend:
